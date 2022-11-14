@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="puntoventa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/puntoventa_jar</output-path>
+    <root id="archive" name="puntoventa.jar">
+      <element id="module-output" name="puntoventa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../AccesoDatos.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

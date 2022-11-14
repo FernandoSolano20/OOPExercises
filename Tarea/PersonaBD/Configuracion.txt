@@ -1,0 +1,1 @@
+com.mysql.jdbc.Driver;jdbc:mysql://localhost/universidad?useSSL=false;prueba;1qaz2wsx3edc
